@@ -1,5 +1,5 @@
 # Hate-Speech-Detection
-Detects hate speech from a list of tweets.
+Detects hate speech from a list of tweets.<br>
 Adwait Rangnekar<br>
 Github : https://github.com/adwaitr<br>
 Linkedin : https://www.linkedin.com/in/adwait-rangnekar/<br>
